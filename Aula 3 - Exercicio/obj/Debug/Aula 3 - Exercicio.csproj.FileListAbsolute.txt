@@ -1,0 +1,8 @@
+C:\DevC\Aula 3 - Exercicio\bin\Debug\Aula 3 - Exercicio.exe.config
+C:\DevC\Aula 3 - Exercicio\bin\Debug\Aula 3 - Exercicio.exe
+C:\DevC\Aula 3 - Exercicio\bin\Debug\Aula 3 - Exercicio.pdb
+C:\DevC\Aula 3 - Exercicio\obj\Debug\Aula 3 - Exercicio.csproj.AssemblyReference.cache
+C:\DevC\Aula 3 - Exercicio\obj\Debug\Aula 3 - Exercicio.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Aula 3 - Exercicio\obj\Debug\Aula 3 - Exercicio.csproj.CoreCompileInputs.cache
+C:\DevC\Aula 3 - Exercicio\obj\Debug\Aula 3 - Exercicio.exe
+C:\DevC\Aula 3 - Exercicio\obj\Debug\Aula 3 - Exercicio.pdb
