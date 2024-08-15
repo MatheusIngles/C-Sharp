@@ -12,3 +12,17 @@ C:\DevC\Exercicio 1\obj\Debug\net8.0\refint\Exercicio 1.dll
 C:\DevC\Exercicio 1\obj\Debug\net8.0\Exercicio 1.pdb
 C:\DevC\Exercicio 1\obj\Debug\net8.0\Exercicio 1.genruntimeconfig.cache
 C:\DevC\Exercicio 1\obj\Debug\net8.0\ref\Exercicio 1.dll
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\bin\Debug\net8.0\Exercicio 1.exe
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\bin\Debug\net8.0\Exercicio 1.deps.json
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\bin\Debug\net8.0\Exercicio 1.runtimeconfig.json
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\bin\Debug\net8.0\Exercicio 1.dll
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\bin\Debug\net8.0\Exercicio 1.pdb
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\obj\Debug\net8.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\obj\Debug\net8.0\Exercicio 1.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\obj\Debug\net8.0\Exercicio 1.AssemblyInfo.cs
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\obj\Debug\net8.0\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\obj\Debug\net8.0\Exercicio 1.dll
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\obj\Debug\net8.0\refint\Exercicio 1.dll
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\obj\Debug\net8.0\Exercicio 1.pdb
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\obj\Debug\net8.0\Exercicio 1.genruntimeconfig.cache
+C:\Users\paulo\source\repos\Trabalho Rosa\Exercicio 1\obj\Debug\net8.0\ref\Exercicio 1.dll

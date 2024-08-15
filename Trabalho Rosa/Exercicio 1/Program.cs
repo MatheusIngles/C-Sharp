@@ -68,11 +68,11 @@
             void verificarPorcentagem()
             {
                 int Tamanho = listA.Count + listB.Count + listC.Count + listD.Count + listE.Count;
-                int PorcA = (listA.Count / Tamanho) * 100;
-                int PorcB = (listB.Count / Tamanho) * 100;
-                int PorcC = (listC.Count / Tamanho) * 100;
-                int PorcD = (listD.Count / Tamanho) * 100;
-                int PorcE = (listE.Count / Tamanho) * 100;
+                double PorcA = ((double)listA.Count / Tamanho) * 100;
+                double PorcB = ((double)listB.Count / Tamanho) * 100;
+                double PorcC = ((double)listC.Count / Tamanho) * 100;
+                double PorcD = ((double)listD.Count / Tamanho) * 100;
+                double PorcE = ((double)listE.Count / Tamanho) * 100;
 
                 Console.WriteLine($"A porcentagem de cada categoria é:\nCategoria A: {PorcA}%\nCategoria B: {PorcB}%\nCategoria C: {PorcC}%\nCategoria D: {PorcD}%\nCategoria E: {PorcE}%");
 
