@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa\\Exercicio 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C274E28-3FD2-45D3-8AE9-56C101200AC8}|Exercicio 7.csproj|c:\\users\\paulo\\documents\\github\\c-sharp\\trabalho rosa\\exercicio 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C274E28-3FD2-45D3-8AE9-56C101200AC8}|Exercicio 7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C274E28-3FD2-45D3-8AE9-56C101200AC8}|Exercicio 7.csproj|c:\\users\\paulo\\documents\\github\\c-sharp\\trabalho rosa\\exercicio 7\\google tradutor\\palavra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C274E28-3FD2-45D3-8AE9-56C101200AC8}|Exercicio 7.csproj|solutionrelative:google tradutor\\palavra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C274E28-3FD2-45D3-8AE9-56C101200AC8}|Exercicio 7.csproj|c:\\users\\paulo\\documents\\github\\c-sharp\\trabalho rosa\\exercicio 7\\google tradutor\\significado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C274E28-3FD2-45D3-8AE9-56C101200AC8}|Exercicio 7.csproj|solutionrelative:google tradutor\\significado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Significado.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa\\Exercicio 7\\Google Tradutor\\Significado.cs",
+              "RelativeDocumentMoniker": "Google Tradutor\\Significado.cs",
+              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa\\Exercicio 7\\Google Tradutor\\Significado.cs",
+              "RelativeToolTip": "Google Tradutor\\Significado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:12:06.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Palavra.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa\\Exercicio 7\\Google Tradutor\\Palavra.cs",
+              "RelativeDocumentMoniker": "Google Tradutor\\Palavra.cs",
+              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa\\Exercicio 7\\Google Tradutor\\Palavra.cs",
+              "RelativeToolTip": "Google Tradutor\\Palavra.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:11:45.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa\\Exercicio 7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa\\Exercicio 7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAQwGsAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:10:08.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
