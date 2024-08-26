@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BCC65-506A-451C-BD72-A3841B18744B}|Exercicio 2.csproj|c:\\users\\paulo\\documents\\github\\c-sharp\\trabalho rosa 2\\exercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BCC65-506A-451C-BD72-A3841B18744B}|Exercicio 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BCC65-506A-451C-BD72-A3841B18744B}|Exercicio 2.csproj|c:\\users\\paulo\\documents\\github\\c-sharp\\trabalho rosa 2\\exercicio 2\\att\\aeroporto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BCC65-506A-451C-BD72-A3841B18744B}|Exercicio 2.csproj|solutionrelative:att\\aeroporto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BCC65-506A-451C-BD72-A3841B18744B}|Exercicio 2.csproj|c:\\users\\paulo\\documents\\github\\c-sharp\\trabalho rosa 2\\exercicio 2\\att\\grifo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BCC65-506A-451C-BD72-A3841B18744B}|Exercicio 2.csproj|solutionrelative:att\\grifo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BCC65-506A-451C-BD72-A3841B18744B}|Exercicio 2.csproj|c:\\users\\paulo\\documents\\github\\c-sharp\\trabalho rosa 2\\exercicio 2\\att\\aviao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BCC65-506A-451C-BD72-A3841B18744B}|Exercicio 2.csproj|solutionrelative:att\\aviao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BCC65-506A-451C-BD72-A3841B18744B}|Exercicio 2.csproj|c:\\users\\paulo\\documents\\github\\c-sharp\\trabalho rosa 2\\exercicio 2\\att\\helicoptero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BCC65-506A-451C-BD72-A3841B18744B}|Exercicio 2.csproj|solutionrelative:att\\helicoptero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BCC65-506A-451C-BD72-A3841B18744B}|Exercicio 2.csproj|c:\\users\\paulo\\documents\\github\\c-sharp\\trabalho rosa 2\\exercicio 2\\att\\flyingtransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BCC65-506A-451C-BD72-A3841B18744B}|Exercicio 2.csproj|solutionrelative:att\\flyingtransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aviao.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\Att\\Aviao.cs",
+              "RelativeDocumentMoniker": "Att\\Aviao.cs",
+              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\Att\\Aviao.cs",
+              "RelativeToolTip": "Att\\Aviao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:12:30.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grifo.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\Att\\Grifo.cs",
+              "RelativeDocumentMoniker": "Att\\Grifo.cs",
+              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\Att\\Grifo.cs",
+              "RelativeToolTip": "Att\\Grifo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:11:10.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helicoptero.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\Att\\Helicoptero.cs",
+              "RelativeDocumentMoniker": "Att\\Helicoptero.cs",
+              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\Att\\Helicoptero.cs",
+              "RelativeToolTip": "Att\\Helicoptero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:03:36.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlyingTransport.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\Att\\FlyingTransport.cs",
+              "RelativeDocumentMoniker": "Att\\FlyingTransport.cs",
+              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\Att\\FlyingTransport.cs",
+              "RelativeToolTip": "Att\\FlyingTransport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T03:15:30.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aeroporto.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\Att\\Aeroporto.cs",
+              "RelativeDocumentMoniker": "Att\\Aeroporto.cs",
+              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\Att\\Aeroporto.cs",
+              "RelativeToolTip": "Att\\Aeroporto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T03:08:51.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\C-Sharp\\Trabalho Rosa 2\\Exercicio 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T03:03:13.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
