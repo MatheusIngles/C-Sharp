@@ -1,0 +1,20 @@
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\Exercicio 3_MarkupCompile.cache
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\Exercicio 3_MarkupCompile.lref
+C:\Users\paulo\source\repos\Exercicio 3\bin\Debug\net8.0-windows\Exercicio 3.exe
+C:\Users\paulo\source\repos\Exercicio 3\bin\Debug\net8.0-windows\Exercicio 3.deps.json
+C:\Users\paulo\source\repos\Exercicio 3\bin\Debug\net8.0-windows\Exercicio 3.runtimeconfig.json
+C:\Users\paulo\source\repos\Exercicio 3\bin\Debug\net8.0-windows\Exercicio 3.dll
+C:\Users\paulo\source\repos\Exercicio 3\bin\Debug\net8.0-windows\Exercicio 3.pdb
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\Exercicio 3.g.resources
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\Exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\Exercicio 3.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\Exercicio 3.AssemblyInfo.cs
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\Exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\Exercicio 3.dll
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\refint\Exercicio 3.dll
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\Exercicio 3.pdb
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\Exercicio 3.genruntimeconfig.cache
+C:\Users\paulo\source\repos\Exercicio 3\obj\Debug\net8.0-windows\ref\Exercicio 3.dll

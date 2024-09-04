@@ -1,0 +1,25 @@
+﻿<Window x:Class="Exercicio_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercicio_4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="480" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/images (4).jpeg"/>
+        </Grid.Background>
+        <Button Content="Pesquisar" HorizontalAlignment="Left" Height="37" Margin="660,49,0,0" VerticalAlignment="Top" Width="105" Click="Button_Click"/>
+        <TextBox x:Name="Conteudo" HorizontalAlignment="Left" Height="19" Margin="340,58,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="296"/>
+        <ComboBox x:Name="Nome" HorizontalAlignment="Left" Margin="25,55,0,0" VerticalAlignment="Top" Width="181" Height="22" IsSynchronizedWithCurrentItem="True" SelectionChanged="Nome_SelectionChanged">
+        </ComboBox>
+        <DataGrid x:Name="Datadados" ColumnWidth="*" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="25,101,40,52"/>
+        <Button Content="Selecionar" HorizontalAlignment="Left" Height="23" Margin="550,401,0,0" VerticalAlignment="Top" Width="101" RenderTransformOrigin="-0.178,-0.346" Click="Button_Click_2"/>
+        <Button Content="Cancelar" HorizontalAlignment="Left" Height="23" Margin="659,401,0,0" VerticalAlignment="Top" Width="101" RenderTransformOrigin="-0.178,-0.346" Click="Button_Click_1"/>
+        <Button Content="Listar todos" HorizontalAlignment="Left" Height="23" Margin="25,401,0,0" VerticalAlignment="Top" Width="101" RenderTransformOrigin="-0.178,-0.346"/>
+        <TextBlock HorizontalAlignment="Left" Margin="342,37,0,0" TextWrapping="Wrap" Text="Conteúdo consulta" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,34,0,0" TextWrapping="Wrap" Text="Tipo consulta" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

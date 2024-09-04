@@ -1,0 +1,23 @@
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\Exercicio 2_MarkupCompile.cache
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\Exercicio 2_MarkupCompile.lref
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\bin\Debug\net8.0-windows\Exercicio 2.exe
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\bin\Debug\net8.0-windows\Exercicio 2.deps.json
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\bin\Debug\net8.0-windows\Exercicio 2.runtimeconfig.json
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\bin\Debug\net8.0-windows\Exercicio 2.dll
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\bin\Debug\net8.0-windows\Exercicio 2.pdb
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\BomDia.g.cs
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\BomDia.baml
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\Exercicio 2.g.resources
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\Exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\Exercicio 2.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\Exercicio 2.AssemblyInfo.cs
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\Exercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\Exercicio 2.sourcelink.json
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\Exercicio 2.dll
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\refint\Exercicio 2.dll
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\Exercicio 2.pdb
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\Exercicio 2.genruntimeconfig.cache
+C:\Users\paulo\Documents\GitHub\C-Sharp\Trabalho Rosa 3\Exercicio 2\obj\Debug\net8.0-windows\ref\Exercicio 2.dll

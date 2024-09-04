@@ -1,0 +1,23 @@
+C:\Users\paulo\source\repos\Exercicio 4\bin\Debug\net8.0-windows\Exercicio 4.exe
+C:\Users\paulo\source\repos\Exercicio 4\bin\Debug\net8.0-windows\Exercicio 4.deps.json
+C:\Users\paulo\source\repos\Exercicio 4\bin\Debug\net8.0-windows\Exercicio 4.runtimeconfig.json
+C:\Users\paulo\source\repos\Exercicio 4\bin\Debug\net8.0-windows\Exercicio 4.dll
+C:\Users\paulo\source\repos\Exercicio 4\bin\Debug\net8.0-windows\Exercicio 4.pdb
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\Exercicio 4_MarkupCompile.cache
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\Exercicio 4_MarkupCompile.lref
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\Exercicio 4.g.resources
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\Exercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\Exercicio 4.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\Exercicio 4.AssemblyInfo.cs
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\Exercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\Exercicio 4.dll
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\refint\Exercicio 4.dll
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\Exercicio 4.pdb
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\Exercicio 4.genruntimeconfig.cache
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\ref\Exercicio 4.dll
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\Bosta.g.cs
+C:\Users\paulo\source\repos\Exercicio 4\obj\Debug\net8.0-windows\Bosta.baml

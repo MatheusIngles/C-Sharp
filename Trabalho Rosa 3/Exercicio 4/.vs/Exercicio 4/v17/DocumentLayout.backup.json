@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo\\source\\repos\\Exercicio 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3305245-6DA5-4C81-AB0F-316628BD5045}|Exercicio 4.csproj|c:\\users\\paulo\\source\\repos\\exercicio 4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3305245-6DA5-4C81-AB0F-316628BD5045}|Exercicio 4.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3305245-6DA5-4C81-AB0F-316628BD5045}|Exercicio 4.csproj|c:\\users\\paulo\\source\\repos\\exercicio 4\\bosta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3305245-6DA5-4C81-AB0F-316628BD5045}|Exercicio 4.csproj|solutionrelative:bosta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3305245-6DA5-4C81-AB0F-316628BD5045}|Exercicio 4.csproj|c:\\users\\paulo\\source\\repos\\exercicio 4\\bosta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3305245-6DA5-4C81-AB0F-316628BD5045}|Exercicio 4.csproj|solutionrelative:bosta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3305245-6DA5-4C81-AB0F-316628BD5045}|Exercicio 4.csproj|c:\\users\\paulo\\source\\repos\\exercicio 4\\resultadoconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3305245-6DA5-4C81-AB0F-316628BD5045}|Exercicio 4.csproj|solutionrelative:resultadoconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3305245-6DA5-4C81-AB0F-316628BD5045}|Exercicio 4.csproj|c:\\users\\paulo\\source\\repos\\exercicio 4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3305245-6DA5-4C81-AB0F-316628BD5045}|Exercicio 4.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bosta.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\Exercicio 4\\Bosta.xaml.cs",
+              "RelativeDocumentMoniker": "Bosta.xaml.cs",
+              "ToolTip": "C:\\Users\\paulo\\source\\repos\\Exercicio 4\\Bosta.xaml.cs",
+              "RelativeToolTip": "Bosta.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:50:07.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bosta.xaml",
+              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\Exercicio 4\\Bosta.xaml",
+              "RelativeDocumentMoniker": "Bosta.xaml",
+              "ToolTip": "C:\\Users\\paulo\\source\\repos\\Exercicio 4\\Bosta.xaml*",
+              "RelativeToolTip": "Bosta.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T20:47:30.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultadoConsulta.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\Exercicio 4\\ResultadoConsulta.cs",
+              "RelativeDocumentMoniker": "ResultadoConsulta.cs",
+              "ToolTip": "C:\\Users\\paulo\\source\\repos\\Exercicio 4\\ResultadoConsulta.cs",
+              "RelativeToolTip": "ResultadoConsulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:22:58.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\Exercicio 4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\paulo\\source\\repos\\Exercicio 4\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T20:13:19.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\Exercicio 4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\paulo\\source\\repos\\Exercicio 4\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwDUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:13:19.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
